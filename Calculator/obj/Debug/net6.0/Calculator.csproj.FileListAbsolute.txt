@@ -1,0 +1,15 @@
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/bin/Debug/net6.0/Calculator
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/marinatursunova/RiderProjects/Calculator/Calculator/obj/Debug/net6.0/ref/Calculator.dll
